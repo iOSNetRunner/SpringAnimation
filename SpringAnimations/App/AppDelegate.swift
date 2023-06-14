@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  SpringAnimation
+//  SpringAnimations
 //
 //  Created by Dmitrii Galatskii on 14.06.2023.
 //
